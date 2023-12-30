@@ -1,0 +1,20 @@
+C:\Users\amer.turk\Source\Repos\testt\WhiteMvvm\bin\Debug\netstandard2.0\WhiteMvvm.deps.json
+C:\Users\amer.turk\Source\Repos\testt\WhiteMvvm\bin\Debug\netstandard2.0\WhiteMvvm.dll
+C:\Users\amer.turk\Source\Repos\testt\WhiteMvvm\bin\Debug\netstandard2.0\WhiteMvvm.pdb
+C:\Users\amer.turk\Source\Repos\testt\WhiteMvvm\obj\Debug\netstandard2.0\WhiteMvvm.AssemblyInfoInputs.cache
+C:\Users\amer.turk\Source\Repos\testt\WhiteMvvm\obj\Debug\netstandard2.0\WhiteMvvm.AssemblyInfo.cs
+C:\Users\amer.turk\Source\Repos\testt\WhiteMvvm\obj\Debug\netstandard2.0\WhiteMvvm.csproj.CoreCompileInputs.cache
+C:\Users\amer.turk\Source\Repos\testt\WhiteMvvm\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\amer.turk\Source\Repos\testt\WhiteMvvm\obj\Debug\netstandard2.0\WhiteMvvm.dll
+C:\Users\amer.turk\Source\Repos\testt\WhiteMvvm\obj\Debug\netstandard2.0\WhiteMvvm.pdb
+C:\Users\amer.turk\source\repos\testt\WhiteMvvm\obj\Debug\netstandard2.0\WhiteMvvm.csprojAssemblyReference.cache
+D:\Amer\Amer\Amer WWW\CANADA\Manitoba Incupator\SignVid Demo Application\testt\WhiteMvvm\bin\Debug\netstandard2.0\WhiteMvvm.deps.json
+D:\Amer\Amer\Amer WWW\CANADA\Manitoba Incupator\SignVid Demo Application\testt\WhiteMvvm\bin\Debug\netstandard2.0\WhiteMvvm.dll
+D:\Amer\Amer\Amer WWW\CANADA\Manitoba Incupator\SignVid Demo Application\testt\WhiteMvvm\bin\Debug\netstandard2.0\WhiteMvvm.pdb
+D:\Amer\Amer\Amer WWW\CANADA\Manitoba Incupator\SignVid Demo Application\testt\WhiteMvvm\obj\Debug\netstandard2.0\WhiteMvvm.csprojAssemblyReference.cache
+D:\Amer\Amer\Amer WWW\CANADA\Manitoba Incupator\SignVid Demo Application\testt\WhiteMvvm\obj\Debug\netstandard2.0\WhiteMvvm.AssemblyInfoInputs.cache
+D:\Amer\Amer\Amer WWW\CANADA\Manitoba Incupator\SignVid Demo Application\testt\WhiteMvvm\obj\Debug\netstandard2.0\WhiteMvvm.AssemblyInfo.cs
+D:\Amer\Amer\Amer WWW\CANADA\Manitoba Incupator\SignVid Demo Application\testt\WhiteMvvm\obj\Debug\netstandard2.0\WhiteMvvm.csproj.CoreCompileInputs.cache
+D:\Amer\Amer\Amer WWW\CANADA\Manitoba Incupator\SignVid Demo Application\testt\WhiteMvvm\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Amer\Amer\Amer WWW\CANADA\Manitoba Incupator\SignVid Demo Application\testt\WhiteMvvm\obj\Debug\netstandard2.0\WhiteMvvm.dll
+D:\Amer\Amer\Amer WWW\CANADA\Manitoba Incupator\SignVid Demo Application\testt\WhiteMvvm\obj\Debug\netstandard2.0\WhiteMvvm.pdb

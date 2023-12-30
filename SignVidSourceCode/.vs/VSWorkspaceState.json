@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Signbook",
+    "\\Signbook.iOS",
+    "\\Signbook\\ViewModels",
+    "\\Signbook\\Views",
+    "\\WhiteMvvm",
+    "\\WhiteMvvm\\Bases",
+    "\\WhiteMvvm\\Converters",
+    "\\WhiteMvvm\\Services",
+    "\\WhiteMvvm\\Services\\Navigation"
+  ],
+  "SelectedNode": "\\Signbook.sln",
+  "PreviewInSolutionExplorer": false
+}

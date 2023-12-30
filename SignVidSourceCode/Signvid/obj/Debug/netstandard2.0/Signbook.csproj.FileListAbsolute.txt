@@ -1,0 +1,104 @@
+C:\Users\amer.turk\Source\Repos\testt\Signbook\obj\Debug\netstandard2.0\Signbook.csprojAssemblyReference.cache
+C:\Users\amer.turk\Source\Repos\testt\Signbook\obj\Debug\netstandard2.0\Signbook.Resources.AppResource.resources
+C:\Users\amer.turk\Source\Repos\testt\Signbook\obj\Debug\netstandard2.0\Signbook.Resources.AppResource.ar.resources
+C:\Users\amer.turk\Source\Repos\testt\Signbook\obj\Debug\netstandard2.0\Signbook.csproj.GenerateResource.cache
+C:\Users\amer.turk\Source\Repos\testt\Signbook\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\amer.turk\Source\Repos\testt\Signbook\obj\Debug\netstandard2.0\Views\AdminCallPage.xaml.g.cs
+C:\Users\amer.turk\Source\Repos\testt\Signbook\obj\Debug\netstandard2.0\Views\BarcodeWindowPage.xaml.g.cs
+C:\Users\amer.turk\Source\Repos\testt\Signbook\obj\Debug\netstandard2.0\Views\CountriesPage.xaml.g.cs
+C:\Users\amer.turk\Source\Repos\testt\Signbook\obj\Debug\netstandard2.0\Views\DisabilityTypePage.xaml.g.cs
+C:\Users\amer.turk\Source\Repos\testt\Signbook\obj\Debug\netstandard2.0\Views\DoCallPage.xaml.g.cs
+C:\Users\amer.turk\Source\Repos\testt\Signbook\obj\Debug\netstandard2.0\Views\EditCountriesPage.xaml.g.cs
+C:\Users\amer.turk\Source\Repos\testt\Signbook\obj\Debug\netstandard2.0\Views\EditDisabilityTypePage.xaml.g.cs
+C:\Users\amer.turk\Source\Repos\testt\Signbook\obj\Debug\netstandard2.0\Views\ForgetPassPage.xaml.g.cs
+C:\Users\amer.turk\Source\Repos\testt\Signbook\obj\Debug\netstandard2.0\Views\FullScreenScanning.xaml.g.cs
+C:\Users\amer.turk\Source\Repos\testt\Signbook\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\amer.turk\Source\Repos\testt\Signbook\obj\Debug\netstandard2.0\Views\MainCallJordanPage.xaml.g.cs
+C:\Users\amer.turk\Source\Repos\testt\Signbook\obj\Debug\netstandard2.0\Views\MainCallPage.xaml.g.cs
+C:\Users\amer.turk\Source\Repos\testt\Signbook\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\amer.turk\Source\Repos\testt\Signbook\obj\Debug\netstandard2.0\Views\NewsDetailedPage.xaml.g.cs
+C:\Users\amer.turk\Source\Repos\testt\Signbook\obj\Debug\netstandard2.0\Views\NewsMainPage.xaml.g.cs
+C:\Users\amer.turk\Source\Repos\testt\Signbook\obj\Debug\netstandard2.0\Views\NewsPage.xaml.g.cs
+C:\Users\amer.turk\Source\Repos\testt\Signbook\obj\Debug\netstandard2.0\Views\NewsWindowPage.xaml.g.cs
+C:\Users\amer.turk\Source\Repos\testt\Signbook\obj\Debug\netstandard2.0\Views\RoomPage.xaml.g.cs
+C:\Users\amer.turk\Source\Repos\testt\Signbook\obj\Debug\netstandard2.0\Views\ScheduleCallPage.xaml.g.cs
+C:\Users\amer.turk\Source\Repos\testt\Signbook\obj\Debug\netstandard2.0\Views\SettingPage.xaml.g.cs
+C:\Users\amer.turk\Source\Repos\testt\Signbook\obj\Debug\netstandard2.0\Views\SignupPage.xaml.g.cs
+C:\Users\amer.turk\Source\Repos\testt\Signbook\obj\Debug\netstandard2.0\Views\SplashscreenPage.xaml.g.cs
+C:\Users\amer.turk\Source\Repos\testt\Signbook\obj\Debug\netstandard2.0\Views\SuggestionPage.xaml.g.cs
+C:\Users\amer.turk\Source\Repos\testt\Signbook\obj\Debug\netstandard2.0\Views\VideoWebPage.xaml.g.cs
+C:\Users\amer.turk\Source\Repos\testt\Signbook\obj\Debug\netstandard2.0\Signbook.AssemblyInfoInputs.cache
+C:\Users\amer.turk\Source\Repos\testt\Signbook\obj\Debug\netstandard2.0\Signbook.AssemblyInfo.cs
+C:\Users\amer.turk\Source\Repos\testt\Signbook\bin\Debug\netstandard2.0\Signbook.deps.json
+C:\Users\amer.turk\Source\Repos\testt\Signbook\bin\Debug\netstandard2.0\Signbook.dll
+C:\Users\amer.turk\Source\Repos\testt\Signbook\bin\Debug\netstandard2.0\ref\Signbook.dll
+C:\Users\amer.turk\Source\Repos\testt\Signbook\bin\Debug\netstandard2.0\Signbook.pdb
+C:\Users\amer.turk\Source\Repos\testt\Signbook\bin\Debug\netstandard2.0\ar\Signbook.resources.dll
+C:\Users\amer.turk\Source\Repos\testt\Signbook\bin\Debug\netstandard2.0\Mono.Android.dll
+C:\Users\amer.turk\Source\Repos\testt\Signbook\bin\Debug\netstandard2.0\WhiteMvvm.dll
+C:\Users\amer.turk\Source\Repos\testt\Signbook\bin\Debug\netstandard2.0\Xamarin.iOS.dll
+C:\Users\amer.turk\Source\Repos\testt\Signbook\bin\Debug\netstandard2.0\WhiteMvvm.pdb
+C:\Users\amer.turk\Source\Repos\testt\Signbook\bin\Debug\netstandard2.0\Mono.Android.pdb
+C:\Users\amer.turk\Source\Repos\testt\Signbook\bin\Debug\netstandard2.0\Mono.Android.xml
+C:\Users\amer.turk\Source\Repos\testt\Signbook\bin\Debug\netstandard2.0\Xamarin.iOS.xml
+C:\Users\amer.turk\Source\Repos\testt\Signbook\obj\Debug\netstandard2.0\ar\Signbook.resources.dll
+C:\Users\amer.turk\Source\Repos\testt\Signbook\obj\Debug\netstandard2.0\Signbook.csproj.CopyComplete
+C:\Users\amer.turk\Source\Repos\testt\Signbook\obj\Debug\netstandard2.0\Signbook.dll
+C:\Users\amer.turk\Source\Repos\testt\Signbook\obj\Debug\netstandard2.0\ref\Signbook.dll
+C:\Users\amer.turk\Source\Repos\testt\Signbook\obj\Debug\netstandard2.0\Signbook.pdb
+C:\Users\amer.turk\Source\Repos\testt\Signbook\obj\Debug\netstandard2.0\Views\SignupJordanPage.xaml.g.cs
+C:\Users\amer.turk\Source\Repos\testt\Signbook\obj\Debug\netstandard2.0\Views\DoCallJordanPage.xaml.g.cs
+C:\Users\amer.turk\source\repos\testt\Signbook\obj\Debug\netstandard2.0\Signbook.csproj.CoreCompileInputs.cache
+C:\Users\amer.turk\source\repos\testt\Signbook\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Amer\Amer\Amer WWW\CANADA\Manitoba Incupator\SignVid Demo Application\testt\Signbook\bin\Debug\netstandard2.0\Signbook.deps.json
+D:\Amer\Amer\Amer WWW\CANADA\Manitoba Incupator\SignVid Demo Application\testt\Signbook\bin\Debug\netstandard2.0\Signbook.dll
+D:\Amer\Amer\Amer WWW\CANADA\Manitoba Incupator\SignVid Demo Application\testt\Signbook\bin\Debug\netstandard2.0\ref\Signbook.dll
+D:\Amer\Amer\Amer WWW\CANADA\Manitoba Incupator\SignVid Demo Application\testt\Signbook\bin\Debug\netstandard2.0\Signbook.pdb
+D:\Amer\Amer\Amer WWW\CANADA\Manitoba Incupator\SignVid Demo Application\testt\Signbook\bin\Debug\netstandard2.0\ar\Signbook.resources.dll
+D:\Amer\Amer\Amer WWW\CANADA\Manitoba Incupator\SignVid Demo Application\testt\Signbook\bin\Debug\netstandard2.0\Mono.Android.dll
+D:\Amer\Amer\Amer WWW\CANADA\Manitoba Incupator\SignVid Demo Application\testt\Signbook\bin\Debug\netstandard2.0\WhiteMvvm.dll
+D:\Amer\Amer\Amer WWW\CANADA\Manitoba Incupator\SignVid Demo Application\testt\Signbook\bin\Debug\netstandard2.0\Xamarin.iOS.dll
+D:\Amer\Amer\Amer WWW\CANADA\Manitoba Incupator\SignVid Demo Application\testt\Signbook\bin\Debug\netstandard2.0\WhiteMvvm.pdb
+D:\Amer\Amer\Amer WWW\CANADA\Manitoba Incupator\SignVid Demo Application\testt\Signbook\bin\Debug\netstandard2.0\Mono.Android.pdb
+D:\Amer\Amer\Amer WWW\CANADA\Manitoba Incupator\SignVid Demo Application\testt\Signbook\bin\Debug\netstandard2.0\Mono.Android.xml
+D:\Amer\Amer\Amer WWW\CANADA\Manitoba Incupator\SignVid Demo Application\testt\Signbook\bin\Debug\netstandard2.0\Xamarin.iOS.xml
+D:\Amer\Amer\Amer WWW\CANADA\Manitoba Incupator\SignVid Demo Application\testt\Signbook\obj\Debug\netstandard2.0\Signbook.csprojAssemblyReference.cache
+D:\Amer\Amer\Amer WWW\CANADA\Manitoba Incupator\SignVid Demo Application\testt\Signbook\obj\Debug\netstandard2.0\Signbook.Resources.AppResource.resources
+D:\Amer\Amer\Amer WWW\CANADA\Manitoba Incupator\SignVid Demo Application\testt\Signbook\obj\Debug\netstandard2.0\Signbook.Resources.AppResource.ar.resources
+D:\Amer\Amer\Amer WWW\CANADA\Manitoba Incupator\SignVid Demo Application\testt\Signbook\obj\Debug\netstandard2.0\Signbook.csproj.GenerateResource.cache
+D:\Amer\Amer\Amer WWW\CANADA\Manitoba Incupator\SignVid Demo Application\testt\Signbook\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Amer\Amer\Amer WWW\CANADA\Manitoba Incupator\SignVid Demo Application\testt\Signbook\obj\Debug\netstandard2.0\Views\AdminCallPage.xaml.g.cs
+D:\Amer\Amer\Amer WWW\CANADA\Manitoba Incupator\SignVid Demo Application\testt\Signbook\obj\Debug\netstandard2.0\Views\BarcodeWindowPage.xaml.g.cs
+D:\Amer\Amer\Amer WWW\CANADA\Manitoba Incupator\SignVid Demo Application\testt\Signbook\obj\Debug\netstandard2.0\Views\CountriesPage.xaml.g.cs
+D:\Amer\Amer\Amer WWW\CANADA\Manitoba Incupator\SignVid Demo Application\testt\Signbook\obj\Debug\netstandard2.0\Views\DisabilityTypePage.xaml.g.cs
+D:\Amer\Amer\Amer WWW\CANADA\Manitoba Incupator\SignVid Demo Application\testt\Signbook\obj\Debug\netstandard2.0\Views\DoCallJordanPage.xaml.g.cs
+D:\Amer\Amer\Amer WWW\CANADA\Manitoba Incupator\SignVid Demo Application\testt\Signbook\obj\Debug\netstandard2.0\Views\DoCallPage.xaml.g.cs
+D:\Amer\Amer\Amer WWW\CANADA\Manitoba Incupator\SignVid Demo Application\testt\Signbook\obj\Debug\netstandard2.0\Views\EditCountriesPage.xaml.g.cs
+D:\Amer\Amer\Amer WWW\CANADA\Manitoba Incupator\SignVid Demo Application\testt\Signbook\obj\Debug\netstandard2.0\Views\EditDisabilityTypePage.xaml.g.cs
+D:\Amer\Amer\Amer WWW\CANADA\Manitoba Incupator\SignVid Demo Application\testt\Signbook\obj\Debug\netstandard2.0\Views\ForgetPassPage.xaml.g.cs
+D:\Amer\Amer\Amer WWW\CANADA\Manitoba Incupator\SignVid Demo Application\testt\Signbook\obj\Debug\netstandard2.0\Views\FullScreenScanning.xaml.g.cs
+D:\Amer\Amer\Amer WWW\CANADA\Manitoba Incupator\SignVid Demo Application\testt\Signbook\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+D:\Amer\Amer\Amer WWW\CANADA\Manitoba Incupator\SignVid Demo Application\testt\Signbook\obj\Debug\netstandard2.0\Views\MainCallJordanPage.xaml.g.cs
+D:\Amer\Amer\Amer WWW\CANADA\Manitoba Incupator\SignVid Demo Application\testt\Signbook\obj\Debug\netstandard2.0\Views\MainCallPage.xaml.g.cs
+D:\Amer\Amer\Amer WWW\CANADA\Manitoba Incupator\SignVid Demo Application\testt\Signbook\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+D:\Amer\Amer\Amer WWW\CANADA\Manitoba Incupator\SignVid Demo Application\testt\Signbook\obj\Debug\netstandard2.0\Views\NewsDetailedPage.xaml.g.cs
+D:\Amer\Amer\Amer WWW\CANADA\Manitoba Incupator\SignVid Demo Application\testt\Signbook\obj\Debug\netstandard2.0\Views\NewsMainPage.xaml.g.cs
+D:\Amer\Amer\Amer WWW\CANADA\Manitoba Incupator\SignVid Demo Application\testt\Signbook\obj\Debug\netstandard2.0\Views\NewsPage.xaml.g.cs
+D:\Amer\Amer\Amer WWW\CANADA\Manitoba Incupator\SignVid Demo Application\testt\Signbook\obj\Debug\netstandard2.0\Views\NewsWindowPage.xaml.g.cs
+D:\Amer\Amer\Amer WWW\CANADA\Manitoba Incupator\SignVid Demo Application\testt\Signbook\obj\Debug\netstandard2.0\Views\RoomPage.xaml.g.cs
+D:\Amer\Amer\Amer WWW\CANADA\Manitoba Incupator\SignVid Demo Application\testt\Signbook\obj\Debug\netstandard2.0\Views\ScheduleCallPage.xaml.g.cs
+D:\Amer\Amer\Amer WWW\CANADA\Manitoba Incupator\SignVid Demo Application\testt\Signbook\obj\Debug\netstandard2.0\Views\SettingPage.xaml.g.cs
+D:\Amer\Amer\Amer WWW\CANADA\Manitoba Incupator\SignVid Demo Application\testt\Signbook\obj\Debug\netstandard2.0\Views\SignupJordanPage.xaml.g.cs
+D:\Amer\Amer\Amer WWW\CANADA\Manitoba Incupator\SignVid Demo Application\testt\Signbook\obj\Debug\netstandard2.0\Views\SignupPage.xaml.g.cs
+D:\Amer\Amer\Amer WWW\CANADA\Manitoba Incupator\SignVid Demo Application\testt\Signbook\obj\Debug\netstandard2.0\Views\SplashscreenPage.xaml.g.cs
+D:\Amer\Amer\Amer WWW\CANADA\Manitoba Incupator\SignVid Demo Application\testt\Signbook\obj\Debug\netstandard2.0\Views\SuggestionPage.xaml.g.cs
+D:\Amer\Amer\Amer WWW\CANADA\Manitoba Incupator\SignVid Demo Application\testt\Signbook\obj\Debug\netstandard2.0\Views\VideoWebPage.xaml.g.cs
+D:\Amer\Amer\Amer WWW\CANADA\Manitoba Incupator\SignVid Demo Application\testt\Signbook\obj\Debug\netstandard2.0\Signbook.AssemblyInfoInputs.cache
+D:\Amer\Amer\Amer WWW\CANADA\Manitoba Incupator\SignVid Demo Application\testt\Signbook\obj\Debug\netstandard2.0\Signbook.AssemblyInfo.cs
+D:\Amer\Amer\Amer WWW\CANADA\Manitoba Incupator\SignVid Demo Application\testt\Signbook\obj\Debug\netstandard2.0\Signbook.csproj.CoreCompileInputs.cache
+D:\Amer\Amer\Amer WWW\CANADA\Manitoba Incupator\SignVid Demo Application\testt\Signbook\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Amer\Amer\Amer WWW\CANADA\Manitoba Incupator\SignVid Demo Application\testt\Signbook\obj\Debug\netstandard2.0\ar\Signbook.resources.dll
+D:\Amer\Amer\Amer WWW\CANADA\Manitoba Incupator\SignVid Demo Application\testt\Signbook\obj\Debug\netstandard2.0\Signbook.csproj.CopyComplete
+D:\Amer\Amer\Amer WWW\CANADA\Manitoba Incupator\SignVid Demo Application\testt\Signbook\obj\Debug\netstandard2.0\Signbook.dll
+D:\Amer\Amer\Amer WWW\CANADA\Manitoba Incupator\SignVid Demo Application\testt\Signbook\obj\Debug\netstandard2.0\ref\Signbook.dll
+D:\Amer\Amer\Amer WWW\CANADA\Manitoba Incupator\SignVid Demo Application\testt\Signbook\obj\Debug\netstandard2.0\Signbook.pdb
